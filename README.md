@@ -32,10 +32,10 @@
 ---
 
 ##  Getting Started
-
-### 1. Clone the Repository
-
 ```bash
+1. Clone the Repository
+
+
 git clone https://github.com/PriyadharshniG/Vividsense.git
 cd Vividsense
 2. Set Up Virtual Environment (Optional but Recommended)
