@@ -1,0 +1,29 @@
+# Ignore virtual environment folders
+venv/
+ENV/
+env/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# OS and IDE junk
+.DS_Store
+Thumbs.db
+*.log
+
+# Ignore compiled files
+*.exe
+*.dll
+*.so
+
+# Ignore config or secret files
+*.env
+
+# Ignore Jupyter checkpoints (if any)
+.ipynb_checkpoints/
+
+# VS Code settings (if using VS Code)
+.vscode/
