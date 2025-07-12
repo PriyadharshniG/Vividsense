@@ -32,7 +32,7 @@
 ---
 
 ##  Getting Started
-
+```bash
 1. Clone the Repository
 
 git clone https://github.com/PriyadharshniG/Vividsense.git
