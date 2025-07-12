@@ -32,40 +32,31 @@
 ---
 
 ##  Getting Started
-```bash
-1. Clone the Repository
 
+1. Clone the Repository
 
 git clone https://github.com/PriyadharshniG/Vividsense.git
 cd Vividsense
+
 2. Set Up Virtual Environment (Optional but Recommended)
-bash
-Copy
-Edit
+
 python -m venv venv
 venv\Scripts\activate    # On Windows
+
 3. Install Requirements
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 If requirements.txt doesn't exist yet, create one using:
 
-bash
-Copy
-Edit
+
 pip freeze > requirements.txt
 🎯 Running the App
-bash
-Copy
-Edit
+
 python run.py
 A GUI window will open, allowing you to select between different modes: Gesture, Virtual Mouse, Drawing, and Voice Assistant.
 
 📁 Project Structure
-bash
-Copy
-Edit
+
 Vividsense/
 │
 ├── run.py                     # Main GUI launcher
@@ -80,7 +71,7 @@ Vividsense/
 │   └── voice_assistant.py
 🙋‍♀️ Developed By
 Priyadharshni G
-Aspiring Full Stack Developer | Passionate about AI & Human-Computer Interaction
+
 
 📢 Contributing
 Pull requests are welcome! Feel free to fork the repo and submit improvements or new features.
